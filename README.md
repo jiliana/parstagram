@@ -22,5 +22,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src="gifs/parstagram.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<a href = "https://i.imgur.com/RidxwiP.gif"><img src='https://i.imgur.com/RidxwiP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'></a>
